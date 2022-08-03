@@ -1,0 +1,7 @@
+{
+  "password": "app_password",
+  "jwtprivatekey": "bThrive_jwtprivatekey",
+  "mailserverhost": "digi_mailserverhost",
+  "mailserverid": "digi_mailserverid",
+  "mailserverpassword": "digi_mailserverpassword"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "digi tender",
+  "jwtprivatekey": "",
+  "mailserverhost": "gmail",
+  "mailserverid": "digibids2020@gmail.com",
+  "mailserverpassword": "ydkuqhmrryroeglm",
+  "httpsHostServer": "https://digibids.co.za",
+  "googleClientId": "943111964667-vb9o9kl3pv6nv12r12mu8cfhi43s4ldp.apps.googleusercontent.com",
+  "googleClientSecret": "3nRL2IOI0wDRtw8rdBoaLg1U",
+  "facebookAppToken": "",
+  "linkedinClientId": "78739r4d1fs2b3",
+  "linkedinClientSecret": "ZKxDxHpK3UinY2r8"
+}
